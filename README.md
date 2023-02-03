@@ -1,4 +1,4 @@
-# Pytest Lab
+ # Pytest lab [![](https://github.com/PArellano02/functional-python/workflows/tests/badge.svg)](https://github.com/PArellano02/functional-python/act    ions?query=workflow%3Atests)
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 You will also walk through how to use the pytest framework for running test cases.
